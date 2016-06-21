@@ -5,3 +5,4 @@ fork plus merge
      我们还学会了merge
      
      test
+     123456
